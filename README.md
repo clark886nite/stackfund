@@ -56,6 +56,7 @@ StackFund ensures that contributors’ funds are safe, with automatic refunds if
    cd stackfund
    ;; Create a campaign
 
+Example Usage
 (create-campaign u1000000 "Community Solar Project" u1680000000)
 
 ;; Contribute to a campaign
